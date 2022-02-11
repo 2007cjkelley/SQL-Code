@@ -4,6 +4,11 @@ Insert into EmployeeDemographics VALUES
 (NULL, 'Holly', 'Flax', NULL, NULL),
 (1013, 'Darryl', 'Philbin', NULL, 'Male')
 
+Table 2 Insert:
+Insert into EmployeeSalary VALUES
+(1010, NULL, 4700),
+(NULL, Salesman, 4300)
+
 Table 3 Query:
 Create Table WareHouseEmployeeDemographics 
 (EmployeeID int, 
